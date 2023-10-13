@@ -14,7 +14,7 @@ using namespace std;
 
         case 2:
         cout<<"TANU";
-        break;
+       break;
 
         default:
         cout<<"KAJU";
